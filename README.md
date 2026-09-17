@@ -24,4 +24,6 @@ conda activate cspc
 **Tests:** all passing? yes
 
 **Conclusion:**
-- Vectorised computations in NumPy run significantly faster than pure-Python loops for large simulations. Automated pytest tests guarantee code reliability and proper error handling. Setting up Git and Conda provides a solid, reproducible workflow for practical projects.
+- NumPy code is much faster than standard Python loops for simulations.
+- Automated tests with pytest help verify that the code works correctly without manual checks.
+- Setting up Conda and Git makes the project clean, reliable, and easy to run anywhere.
